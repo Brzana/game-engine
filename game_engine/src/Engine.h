@@ -5,6 +5,11 @@
 
 #include "engine\Application.h"
 
+//Logger
+#include "engine\Log.h"
+//Logger
+
 // entry point
 #include "engine\EntryPoint.h"
 // entry point
+
